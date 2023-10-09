@@ -1,0 +1,230 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="ZYA530" tvg-name="GLOBO TV GAZETA VITÓRIA ESPÍRITO SANTO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76235_ll_h3_aa.png" group-title="GLOBO",GLOBO TV GAZETA VITÓRIA ESPÍRITO SANTO | FONTE 1
+http://tv.com.vc:80/jairo/123/754033
+#EXTINF:-1 tvg-id="ZYA530" tvg-name="GLOBO TV GAZETA VITÓRIA ESPÍRITO SANTO | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s76235_ll_h3_aa.png" group-title="GLOBO",GLOBO TV GAZETA VITÓRIA ESPÍRITO SANTO | FONTE 2
+http://tv.com.vc:80/jairo/123/754034
+#EXTINF:-1 tvg-id="ZYA530" tvg-name="GLOBO TV GAZETA VITÓRIA ESPÍRITO SANTO | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s76235_ll_h3_aa.png" group-title="GLOBO",GLOBO TV GAZETA VITÓRIA ESPÍRITO SANTO | FONTE 3
+http://tv.com.vc:80/jairo/123/754035
+#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s99021_ll_h3_aa.png" group-title="PREMIERE",PREMIERE CLUBES | FONTE 1
+http://tv.com.vc:80/jairo/123/454241
+#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s99021_ll_h3_aa.png" group-title="PREMIERE",PREMIERE CLUBES | FONTE 2
+http://tv.com.vc:80/jairo/123/454375
+#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s99021_ll_h3_aa.png" group-title="PREMIERE",PREMIERE CLUBES | FONTE 3
+http://tv.com.vc:80/jairo/123/454534
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PREMIERE 2 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s102412_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/454642
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PREMIERE 2 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s102412_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 2 | FONTE 2
+http://tv.com.vc:80/jairo/123/454643
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PREMIERE 2 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s102412_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/454644
+#EXTINF:-1 tvg-id="PR3UHD" tvg-name="PREMIERE 3 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s102413_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 3 | FONTE 1
+http://tv.com.vc:80/jairo/123/454645
+#EXTINF:-1 tvg-id="PR3UHD" tvg-name="PREMIERE 3 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s102413_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 3 | FONTE 2
+http://tv.com.vc:80/jairo/123/454646
+#EXTINF:-1 tvg-id="PR3UHD" tvg-name="PREMIERE 3 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s102413_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 3 | FONTE 3
+http://tv.com.vc:80/jairo/123/454647
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="PREMIERE 4 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s56087_ll_h3_ab.png" group-title="PREMIERE",PREMIERE 4 | FONTE 1
+http://tv.com.vc:80/jairo/123/454648
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="PREMIERE 4 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s56087_ll_h3_ab.png" group-title="PREMIERE",PREMIERE 4 | FONTE 2
+http://tv.com.vc:80/jairo/123/454649
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="PREMIERE 4 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s56087_ll_h3_ab.png" group-title="PREMIERE",PREMIERE 4 | FONTE 3
+http://tv.com.vc:80/jairo/123/454650
+#EXTINF:-1 tvg-id="PRM5BR" tvg-name="PREMIERE 5 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s98136_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 5 | FONTE 1
+http://tv.com.vc:80/jairo/123/454651
+#EXTINF:-1 tvg-id="PRM5BR" tvg-name="PREMIERE 5 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s98136_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 5 | FONTE 2
+http://tv.com.vc:80/jairo/123/454652
+#EXTINF:-1 tvg-id="PRM5BR" tvg-name="PREMIERE 5 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s98136_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 5 | FONTE 3
+http://tv.com.vc:80/jairo/123/454653
+#EXTINF:-1 tvg-id="PRM6BRH" tvg-name="PREMIERE 6 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103729_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 6 | FONTE 1
+http://tv.com.vc:80/jairo/123/454654
+#EXTINF:-1 tvg-id="PRM6BRH" tvg-name="PREMIERE 6 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103729_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 6 | FONTE 2
+http://tv.com.vc:80/jairo/123/454655
+#EXTINF:-1 tvg-id="PRM6BRH" tvg-name="PREMIERE 6 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103729_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 6 | FONTE 3
+http://tv.com.vc:80/jairo/123/454656
+#EXTINF:-1 tvg-id="PRM7BRH" tvg-name="PREMIERE 7 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103733_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 7 | FONTE 1
+http://tv.com.vc:80/jairo/123/454657
+#EXTINF:-1 tvg-id="PRM7BRH" tvg-name="PREMIERE 7 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103733_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 7 | FONTE 2
+http://tv.com.vc:80/jairo/123/454658
+#EXTINF:-1 tvg-id="PRM7BRH" tvg-name="PREMIERE 7 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103733_ll_h3_aa.png" group-title="PREMIERE",PREMIERE 7 | FONTE 3
+http://tv.com.vc:80/jairo/123/454659
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 |  FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s94567_ll_h3_aa.png" group-title="SPORTV",SPORTV 1 |  FONTE 1
+http://tv.com.vc:80/jairo/123/454231
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s94567_ll_h3_aa.png" group-title="SPORTV",SPORTV 1 | FONTE 2
+http://tv.com.vc:80/jairo/123/454232
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SPORTV 1 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s94567_ll_h3_aa.png" group-title="SPORTV",SPORTV 1 | FONTE 3
+http://tv.com.vc:80/jairo/123/454233
+#EXTINF:-1 tvg-id="SPOR2HD" tvg-name="SPORTV 2 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s94568_ll_h3_aa.png" group-title="SPORTV",SPORTV 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/454234
+#EXTINF:-1 tvg-id="SPOR2HD" tvg-name="SPORTV 2 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s94568_ll_h3_aa.png" group-title="SPORTV",SPORTV 2 | FONTE 2
+http://tv.com.vc:80/jairo/123/454235
+#EXTINF:-1 tvg-id="SPOR2HD" tvg-name="SPORTV 2 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s94568_ll_h3_aa.png" group-title="SPORTV",SPORTV 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/454236
+#EXTINF:-1 tvg-id="SPOR3HD" tvg-name="SPORTV 3 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s94570_ll_h3_aa.png" group-title="SPORTV",SPORTV 3 | FONTE 1
+http://tv.com.vc:80/jairo/123/454237
+#EXTINF:-1 tvg-id="SPOR3HD" tvg-name="SPORTV 3 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s94570_ll_h3_aa.png" group-title="SPORTV",SPORTV 3 | FONTE 2
+http://tv.com.vc:80/jairo/123/454238
+#EXTINF:-1 tvg-id="SPOR3HD" tvg-name="SPORTV 3 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s94570_ll_h3_aa.png" group-title="SPORTV",SPORTV 3 | FONTE 3
+http://tv.com.vc:80/jairo/123/454239
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 1 | FONTE 1
+http://tv.com.vc:80/jairo/123/454675
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 1 | FONTE 2
+http://tv.com.vc:80/jairo/123/454679
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 1 | FONTE 3
+http://tv.com.vc:80/jairo/123/454680
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/454681
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 2 | FONTE 2
+http://tv.com.vc:80/jairo/123/454682
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/454683
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 3 | FONTE 1
+http://tv.com.vc:80/jairo/123/454684
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 3 | FONTE 2
+http://tv.com.vc:80/jairo/123/454685
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 3 | FONTE 3
+http://tv.com.vc:80/jairo/123/454686
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 4 | FONTE 1
+http://tv.com.vc:80/jairo/123/454687
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 4 | FONTE 2
+http://tv.com.vc:80/jairo/123/454688
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 4 | FONTE 3
+http://tv.com.vc:80/jairo/123/454689
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 5 | FONTE 1
+http://tv.com.vc:80/jairo/123/454690
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 5 | FONTE 2
+http://tv.com.vc:80/jairo/123/454691
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 5 | FONTE 3
+http://tv.com.vc:80/jairo/123/454692
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 6 | FONTE 1
+http://tv.com.vc:80/jairo/123/454693
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 6 | FONTE 2
+http://tv.com.vc:80/jairo/123/454694
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 6 | FONTE 3
+http://tv.com.vc:80/jairo/123/454695
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 7 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 7 | FONTE 2
+http://tv.com.vc:80/jairo/123/454696
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 7 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 7 | FONTE 3
+http://tv.com.vc:80/jairo/123/454697
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 8 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 8 | FONTE 2
+http://tv.com.vc:80/jairo/123/454698
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 9 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 9 | FONTE 2
+http://tv.com.vc:80/jairo/123/454699
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 10 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="CANAIS | ESPORTES PPV",STAR+ 10 | FONTE 2
+http://tv.com.vc:80/jairo/123/454700
+#EXTINF:-1 tvg-id="FS2SDBR" tvg-name="FOX SPORTS 2 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s90856_ll_h3_aa.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/454792
+#EXTINF:-1 tvg-id="FS2SDBR" tvg-name="FOX SPORTS 2 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s90856_ll_h3_aa.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 | FONTE 2
+http://tv.com.vc:80/jairo/123/454793
+#EXTINF:-1 tvg-id="FS2SDBR" tvg-name="FOX SPORTS 2 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s90856_ll_h3_aa.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/454794
+#EXTINF:-1 tvg-id="COMBATP" tvg-name="COMBATE | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s107459_ll_h3_aa.png" group-title="CANAIS | ESPORTES",COMBATE | FONTE 1
+http://tv.com.vc:80/jairo/123/454795
+#EXTINF:-1 tvg-id="COMBATP" tvg-name="COMBATE | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s107459_ll_h3_aa.png" group-title="CANAIS | ESPORTES",COMBATE | FONTE 2
+http://tv.com.vc:80/jairo/123/454796
+#EXTINF:-1 tvg-id="COMBATP" tvg-name="COMBATE | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s107459_ll_h3_aa.png" group-title="CANAIS | ESPORTES",COMBATE | FONTE 3
+http://tv.com.vc:80/jairo/123/454797
+#EXTINF:-1 tvg-id="BANDSPH" tvg-name="BAND SPORTS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s94563_ll_h3_ab.png" group-title="CANAIS | ESPORTES",BAND SPORTS | FONTE 1
+http://tv.com.vc:80/jairo/123/454798
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 1 | FONTE 1
+http://tv.com.vc:80/jairo/123/455006
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 | FONTE 2" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 1 | FONTE 2
+http://tv.com.vc:80/jairo/123/455007
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 1 | FONTE 3
+http://tv.com.vc:80/jairo/123/455017
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/455018
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/455020
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 3 | FONTE 1
+http://tv.com.vc:80/jairo/123/455021
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 3 | FONTE 3
+http://tv.com.vc:80/jairo/123/455023
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 4 | FONTE 1
+http://tv.com.vc:80/jairo/123/455024
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 4 | FONTE 3
+http://tv.com.vc:80/jairo/123/455026
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 5 | FONTE 1
+http://tv.com.vc:80/jairo/123/455027
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="CANAIS | ESPORTES PPV",ESTADIO TNT SPORTS 5 | FONTE 3
+http://tv.com.vc:80/jairo/123/455029
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS | FONTE 1" tvg-logo="https://aibnews.com.br/wp-content/uploads/2023/01/UFC..png" group-title="CANAIS | ESPORTES",UFC FIGHT PASS | FONTE 1
+http://tv.com.vc:80/jairo/123/455042
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS | FONTE 2" tvg-logo="https://aibnews.com.br/wp-content/uploads/2023/01/UFC..png" group-title="CANAIS | ESPORTES",UFC FIGHT PASS | FONTE 2
+http://tv.com.vc:80/jairo/123/455043
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV | FONTE 1" tvg-logo="https://i0.wp.com/serflamengo.com.br/wp-content/uploads/2019/01/Fla_TV_post.jpg" group-title="CANAIS | ESPORTES PPV",FLA TV | FONTE 1
+http://tv.com.vc:80/jairo/123/455071
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 1 | FONTE 1" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 1 | FONTE 1
+http://tv.com.vc:80/jairo/123/455613
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 1 | FONTE 2" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 1 | FONTE 2
+http://tv.com.vc:80/jairo/123/455614
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 1 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 1 | FONTE 3
+http://tv.com.vc:80/jairo/123/455615
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 2 | FONTE 1" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/455616
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 2 | FONTE 2" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 2 | FONTE 2
+http://tv.com.vc:80/jairo/123/455617
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 2 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/455618
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 3 | FONTE 1" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 3 | FONTE 1
+http://tv.com.vc:80/jairo/123/455619
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 3 | FONTE 2" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 3 | FONTE 2
+http://tv.com.vc:80/jairo/123/455620
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 3 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 3 | FONTE 3
+http://tv.com.vc:80/jairo/123/455621
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 4 | FONTE 1" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 4 | FONTE 1
+http://tv.com.vc:80/jairo/123/455622
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 4 | FONTE 2" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 4 | FONTE 2
+http://tv.com.vc:80/jairo/123/455623
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 4 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 4 | FONTE 3
+http://tv.com.vc:80/jairo/123/455624
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 5 | FONTE 2" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 5 | FONTE 2
+http://tv.com.vc:80/jairo/123/455625
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 5 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 5 | FONTE 3
+http://tv.com.vc:80/jairo/123/455626
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 6 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 6 | FONTE 3
+http://tv.com.vc:80/jairo/123/455627
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 7 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 7 | FONTE 3
+http://tv.com.vc:80/jairo/123/455628
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 8 | FONTE 3" tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="CANAIS | PARAMOUNT +",PARAMOUNT + 8 | FONTE 3
+http://tv.com.vc:80/jairo/123/455629
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 1 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 1 | FONTE 1
+http://tv.com.vc:80/jairo/123/457541
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 1 | FONTE 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 1 | FONTE 2
+http://tv.com.vc:80/jairo/123/457542
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 1 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 1 | FONTE 3
+http://tv.com.vc:80/jairo/123/457543
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 2 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/457544
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 2 | FONTE 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 2 | FONTE 2
+http://tv.com.vc:80/jairo/123/457545
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VÍDEO 2 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VÍDEO 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/457546
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 3 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 3 | FONTE 1
+http://tv.com.vc:80/jairo/123/457547
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 3 | FONTE 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 3 | FONTE 2
+http://tv.com.vc:80/jairo/123/457548
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 3 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 3 | FONTE 3
+http://tv.com.vc:80/jairo/123/457549
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 4 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 4 | FONTE 1
+http://tv.com.vc:80/jairo/123/457550
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 4 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 4 | FONTE 3
+http://tv.com.vc:80/jairo/123/457552
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 6 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 6 | FONTE 3
+http://tv.com.vc:80/jairo/123/457553
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 7 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 7 | FONTE 3
+http://tv.com.vc:80/jairo/123/457554
+#EXTINF:-1 tvg-id="" tvg-name="F. SPORTS TV 1 | FONTE 1" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png" group-title="CANAIS | F. SPORT TV",F. SPORTS TV 1 | FONTE 1
+http://tv.com.vc:80/jairo/123/458001
+#EXTINF:-1 tvg-id="" tvg-name="F. SPORTS TV 1 | FONTE 3" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png" group-title="CANAIS | F. SPORT TV",F. SPORTS TV 1 | FONTE 3
+http://tv.com.vc:80/jairo/123/458002
+#EXTINF:-1 tvg-id="" tvg-name="F. SPORTS TV 2 | FONTE 1" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png" group-title="CANAIS | F. SPORT TV",F. SPORTS TV 2 | FONTE 1
+http://tv.com.vc:80/jairo/123/458003
+#EXTINF:-1 tvg-id="" tvg-name="F. SPORTS TV 2 | FONTE 3" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png" group-title="CANAIS | F. SPORT TV",F. SPORTS TV 2 | FONTE 3
+http://tv.com.vc:80/jairo/123/458004
+#EXTINF:-1 tvg-id="" tvg-name="F. SPORTS TV 3 | FONTE 1" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png" group-title="CANAIS | F. SPORT TV",F. SPORTS TV 3 | FONTE 1
+http://tv.com.vc:80/jairo/123/458005
+#EXTINF:-1 tvg-id="" tvg-name="F. SPORTS TV 3 | FONTE 3" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png" group-title="CANAIS | F. SPORT TV",F. SPORTS TV 3 | FONTE 3
+http://tv.com.vc:80/jairo/123/458006
+#EXTINF:-1 tvg-id="" tvg-name="F. SPORTS TV 4 | FONTE 1" tvg-logo="http://arquivos.htecsolucoes.com.br:8090/htec/Utilitarios/OestePlay/Imagens/FSPOSRTTV.png" group-title="CANAIS | F. SPORT TV",F. SPORTS TV 4 | FONTE 1
+http://tv.com.vc:80/jairo/123/458007
